@@ -16,12 +16,3 @@
 - python3 snake_cafe.py
 
 
-#### How to use your library (where applicable)
-
-
-
-#### Tests
-
-- run test using pytest
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc

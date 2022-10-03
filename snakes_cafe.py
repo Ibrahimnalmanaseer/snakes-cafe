@@ -55,10 +55,7 @@ while close_order==False:
         
         if customer_order.title() in menu:
             display_order(customer_order,order_list)
-            # order_list.append(customer_order)
-            # order_dict = {i:order_list.count(i) for i in order_list}
-            # for i in order_dict:
-            #     print(f'*** {order_dict[i]} order of {i} have been added to your meal *** \n')
+            
         else:
             print('Your order out of our menu !, Please try to order again')
 
